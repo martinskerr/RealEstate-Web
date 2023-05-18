@@ -1,8 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@500&display=swap');
-body{
-
-    background-image: url("img/casa.jpg") ;
-
-
+*{
+    padding: 0;
+    margin: 0;
 }
 
+
+.seccion1 .carousel-item img {
+    height: 94vh;
+    filter: brightness(70%);
+  }
+
+
+.carousel-caption{
+    
+    padding-bottom:10% ;
+
+}
