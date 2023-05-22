@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,500;1,500&display=swap');
+
+
 *{
     padding: 0;
     margin: 0;
@@ -8,7 +11,16 @@
 .seccion1 .carousel-item img {
     height: 89vh;
     filter: brightness(70%);
+    width: 100%;
   }
+
+.bancoSection{
+  height: 50vh;
+  color: white;
+  background-color: black;
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+}
 
 
 .carousel-caption{
