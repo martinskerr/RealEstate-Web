@@ -17,16 +17,21 @@
 .bancoSection{
   height: 50vh;
   color: white;
-  background-color: black;
+
   font-family: 'Open Sans', sans-serif;
   width: 100%;
 }
+
 
 
 .carousel-caption{
     
     padding-bottom:10% ;
 
+}
+
+.heroesProyectos{
+  height: 100vh;
 }
 
 
