@@ -7,7 +7,6 @@
 }
 
 
-
 .seccion1 .carousel-item img {
     height: 89vh;
     filter: brightness(70%);
@@ -76,4 +75,12 @@
   #button-58 {
     min-width: 170px;
   }
+}
+
+
+.contactoFormulario{
+
+  height: 83vh;
+
+
 }
