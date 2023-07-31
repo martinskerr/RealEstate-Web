@@ -31,7 +31,7 @@ npm run build
 
 ## Contribuciones y Feedback
 
-Autor
+Autores:
 Martin Lopez Garrido - Felipe Catalan 
 
 GitHub: https://github.com/martinskerr
